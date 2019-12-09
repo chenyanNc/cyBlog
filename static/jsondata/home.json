@@ -1,0 +1,18 @@
+{
+      "data1": [{"name": "网站首页","route": "/"},{"name": "学无止境","route": "/Article"},
+                  {"name": "文章归档","route": "/archive"},{"name": "资源分享","route": "/moments"},
+                  {"name": "关于本站","route": "/aboutblog"}
+            ],
+      "data2": [
+                  ["Keep on going never give up", "愿你岁月无波澜，敬我余生不悲欢。", "当你觉得生活没意思，做什么都提不起兴趣时，说明你已经许久没有做出过改变了。长时间待在舒适区，人难免会慢慢丧失斗志，动起来，做出改变，出去看看世界或者学一项新技能，让自己始终在进步。你要相信，在这个世界上，一定有着另外一个你自己，在做着你不敢做的事，过着你想过的生活。"]
+            ],
+      "data3": [
+                  {"author": "作者：Lonely  2019年8月28日", "arttitle": "C#【练习】斐波那契数列求和斐波那契数列求和", "content": "static void Main(string[] args){ //斐波那契数列（Fibonacci sequence），又称黄金分..."},
+                  {"author": "作者：Lonely  2019年8月28日", "arttitle": "C#【练习】斐波那契数列求和斐波那契数列求和", "content": "static void Main(string[] args){ //斐波那契数列（Fibonacci sequence），又称黄金分..."},
+                  {"author": "作者：Lonely  2019年8月28日", "arttitle": "C#【练习】斐波那契数列求和斐波那契数列求和", "content": "static void Main(string[] args){ //斐波那契数列（Fibonacci sequence），又称黄金分..."},
+                  {"author": "作者：Lonely  2019年8月28日", "arttitle": "C#【练习】斐波那契数列求和斐波那契数列求和", "content": "static void Main(string[] args){ //斐波那契数列（Fibonacci sequence），又称黄金分..."},
+                  {"author": "作者：Lonely  2019年8月28日", "arttitle": "C#【练习】斐波那契数列求和斐波那契数列求和", "content": "static void Main(string[] args){ //斐波那契数列（Fibonacci sequence），又称黄金分..."},
+                  {"author": "作者：Lonely  2019年8月28日", "arttitle": "C#【练习】斐波那契数列求和斐波那契数列求和", "content": "static void Main(string[] args){ //斐波那契数列（Fibonacci sequence），又称黄金分..."}
+            ],
+      "success": true
+}
